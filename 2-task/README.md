@@ -1,3 +1,10 @@
+# Задача 2. Select на React
+
+
+https://github.com/Kubatbek-A/a1-pr-tz/assets/57436000/0bd015fe-a909-4377-8b51-0698f66182af
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
