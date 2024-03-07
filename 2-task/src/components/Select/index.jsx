@@ -1,6 +1,8 @@
 import React, { useState, useRef, useEffect } from "react";
 import classNames from "classnames";
 
+import RightIconSVG from "../../assets/icons/arrow-right.svg";
+
 import "./styles.scss";
 
 const OPTIONS = [
@@ -54,6 +56,7 @@ export const Select = () => {
             className="select__menu__item"
           >
             {item.label}
+            <img src="../../assets/icons/arrow-right.svg" alt="Right Arrow" />
           </li>
         ))}
       </ul>
