@@ -56,7 +56,7 @@ export const Select = () => {
             className="select__menu__item"
           >
             {item.label}
-            <img src="../../assets/icons/arrow-right.svg" alt="Right Arrow" />
+            <img src={RightIconSVG} alt="Right Arrow" />
           </li>
         ))}
       </ul>
