@@ -1,8 +1,7 @@
 # Задача 2. Select на React
 
 
-https://github.com/Kubatbek-A/a1-pr-tz/assets/57436000/0bd015fe-a909-4377-8b51-0698f66182af
-
+https://github.com/Kubatbek-A/a1-pr-tz/assets/57436000/91a3c313-edaf-4d45-aaf9-0aa17594c2b3
 
 
 # Getting Started with Create React App
